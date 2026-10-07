@@ -1,0 +1,8 @@
+{
+  "fictional": true,
+  "batch": "B-014",
+  "production": { "source_record": "fictional:batch-note:B-014", "planned_bottling_day": "Thursday", "recorded_bottling_approval": null, "reviewer_role": "brewer_responsible_for_batch" },
+  "food_safety": { "source_record": "fictional:cleaning-check:B-014", "check": "Cleaning check specified by the invented brewery's own HACCP plan", "recorded_result": null, "reviewer_role": "food_safety_responsible" },
+  "excise": { "source_record": "fictional:finished-stock:B-014", "quantity_reconciliation": "not_reviewed", "reviewer_role": "excise_administration_responsible" },
+  "conclusion": "Readiness is not established by these records; obtain the separate reviews."
+}

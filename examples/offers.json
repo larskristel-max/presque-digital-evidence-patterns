@@ -1,0 +1,11 @@
+{
+  "fictional": true,
+  "currency": "EUR",
+  "requirements": { "model": "Invented device X", "condition": "new", "keyboard": "AZERTY", "destination": "Belgium" },
+  "offers": [
+    { "id": "A", "model": "Invented device X", "condition": "new", "keyboard": "QWERTY", "tax_included": true, "item_price": 800, "delivery_available": true, "delivery_charge": 20, "mandatory_extras": 0, "eligible": false, "delivered_total": 820, "search_outcome": "offer_found", "source": "https://example.invalid/offer-a" },
+    { "id": "B", "model": "Invented device X", "condition": "new", "keyboard": "AZERTY", "tax_included": true, "item_price": 830, "delivery_available": true, "delivery_charge": null, "mandatory_extras": 0, "eligible": true, "delivered_total": null, "search_outcome": "offer_found", "source": "https://example.invalid/offer-b" },
+    { "id": "C", "model": "Invented device X", "condition": "new", "keyboard": "AZERTY", "tax_included": true, "item_price": 850, "delivery_available": true, "delivery_charge": 15, "mandatory_extras": 0, "eligible": true, "delivered_total": 865, "search_outcome": "offer_found", "source": "https://example.invalid/offer-c" }
+  ],
+  "distinct_search_outcomes": ["offer_found", "no_matching_result", "blocked", "error"]
+}
