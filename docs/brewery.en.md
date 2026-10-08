@@ -12,6 +12,8 @@ By Presque.digital · 7 October 2026 · [Français](brewery.fr.md)
 
 ## Worked example
 
+For a fuller walkthrough and reusable templates, see [Brewery records and review](https://presque.digital/en/resources/brewery-records/) and the [public brewery toolkit](../toolkit/en/README.md).
+
 In [fictional batch B-014](../examples/batch.json), bottling is planned for Thursday, but approval has not been recorded. A cleaning check specified by the invented brewery's own HACCP plan has no recorded result. Packaged quantity has not yet been reconciled with finished stock.
 
 A useful answer names each gap, links to its source record and directs it to the appropriate reviewer. It cannot confirm readiness from the scheduled date alone. The missing records establish neither a failed check nor unpaid duty. The example does not classify this cleaning check as a universal critical control point.

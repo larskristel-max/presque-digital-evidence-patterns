@@ -1,0 +1,5 @@
+﻿"Brassin / code de conditionnement","Périmètre et date","Poste","Nombre","Volume unitaire L","Volume total L","Base de mesure","Document source","Différence / incertitude","Responsable / décision"
+"B-014 / C-014","Étape fictive ultérieure de conditionnement","Entrée au conditionnement","","","220","Volume enregistré ; base à examiner","Q-INPUT-014","Mesure d’entrée non vérifiée indépendamment","Brasseur : en attente"
+"B-014 / C-014","Même périmètre","Bouteilles","500","0.33","165","Nombre × volume nominal indiqué","Q-BOTTLE-014","Base du remplissage réel à confirmer","Responsable conditionnement : en attente"
+"B-014 / C-014","Même périmètre","Fûts réutilisables","2","20","40","Remplissages mesurés fictifs ; pas la capacité du contenant","Q-KEG-014","Preuve de mesure à vérifier","Responsable conditionnement : en attente"
+"B-014 / C-014","Même périmètre","Perte de conditionnement enregistrée","","","15","Différence : 220 − 165 − 40","Q-LOSS-014","Explication et traitement de la perte non résolus","Brasseur et responsable accises : en attente"

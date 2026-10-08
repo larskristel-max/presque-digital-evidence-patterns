@@ -1,0 +1,5 @@
+﻿"Batch / package code","Boundary and date","Item","Count","Unit volume L","Total volume L","Measurement basis","Source record","Difference / uncertainty","Reviewer / disposition"
+"B-014 / C-014","Later fictional packaging stage","Input to packaging","","","220","Recorded input volume; basis must be reviewed","Q-INPUT-014","Input measurement not independently verified","Brewer: pending"
+"B-014 / C-014","Same boundary","Bottles","500","0.33","165","Count × nominal labelled volume","Q-BOTTLE-014","Actual fill basis to confirm","Packaging reviewer: pending"
+"B-014 / C-014","Same boundary","Reusable kegs","2","20","40","Illustrative measured fills; not vessel capacity","Q-KEG-014","Measurement evidence to check","Packaging reviewer: pending"
+"B-014 / C-014","Same boundary","Recorded packaging loss","","","15","Difference: 220 − 165 − 40","Q-LOSS-014","Loss explanation and treatment unresolved","Brewer and excise reviewer: pending"

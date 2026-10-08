@@ -2,7 +2,7 @@
 
 © 2026 Presque.digital.
 
-The original Markdown text and fictional JSON examples in this repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+The original Markdown text, worksheets and fictional JSON/CSV examples in this repository, including their copies in the downloadable ZIP files, are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 You may share and adapt this material, including commercially, subject to the license terms. Give appropriate credit, link to the license and indicate changes. Attribution must not suggest endorsement by Presque.digital.
 

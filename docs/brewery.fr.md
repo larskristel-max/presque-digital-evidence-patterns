@@ -12,6 +12,8 @@ Par Presque.digital · 7 octobre 2026 · [English](brewery.en.md)
 
 ## Exemple fictif
 
+Pour un parcours plus complet et des modèles réutilisables, consulter [Documents de brasserie et décisions](https://presque.digital/fr/resources/brewery-records/) et les [outils publics de brasserie](../toolkit/fr/README.md).
+
 Pour le [brassin fictif B-014](../examples/batch.json), l'embouteillage est prévu jeudi, mais aucune autorisation n'est consignée. Un contrôle de nettoyage prévu par le plan HACCP de la brasserie inventée n'a aucun résultat consigné. La quantité conditionnée n'est pas encore rapprochée du stock de bière finie.
 
 Une réponse utile nomme chaque lacune, relie le document source et indique la personne responsable de l'examen. Le planning seul ne permet pas de confirmer que le brassin est prêt. Ces absences ne prouvent ni l'échec d'un contrôle ni des droits impayés. Cet exemple ne présente pas le contrôle de nettoyage comme un point critique universel.
